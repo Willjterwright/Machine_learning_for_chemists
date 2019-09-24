@@ -5,5 +5,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - sklearn
+  - scikit-learn
   - seaborn

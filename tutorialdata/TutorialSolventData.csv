@@ -1,0 +1,10 @@
+Primary ID,Name,Mw,BP,Dipole Moment,Density,Molar Volume,(p*)
+1-methylimidazole,,82.1,198,4.12891,1.03,82.4,0.988327
+dimethylsulfoxide,DMSO,78.13,189,3.9,1.101,71.3,1
+"n,n-dimethylformamide",DMF,73.09,153,3.8,0.945,82.628,0.88
+"1,3-dimethylimidazolidin-2-one",DMI,114.15,225,4.25116,1.064,107.3,0.934717
+"n,n-dimethylacetamide",DMAC,87.12,166.1,3.8,0.937,93.02,0.85
+sulfolane,sulfolane,120.2,287.3,4.7,1.262,95.27,0.9
+gamma-valerolactone,,100.12,208,4.71,1.05,96.2,
+"1,1,3,3-tetramethylurea",TMU,116.2,175.2,4.00214,0.969,122.6,0.79
+n-methylpyrrolidine-2-one,NMP,99.13,202,4.1,1.026,96.44,0.92

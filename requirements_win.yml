@@ -1,4 +1,4 @@
-name: teaching
+name: ml-for-chemists
 channels:
   - conda-forge
   - defaults

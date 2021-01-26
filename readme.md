@@ -6,14 +6,14 @@ To create a fresh conda environment with the packages you need and start jupyter
 for linux:
 
 ```
-conda env create -n ml_for_chemists --file requirements.yml
+conda env create --file requirements.yml
 conda activate ml_for_chemists
 jupyter notebook
 ```
 
 for windows:
 ```
-conda env create -n ml_for_chemists --file requirements_windows.yml
+conda env create --file .\requirements_win.yml
 conda activate ml_for_chemists
 jupyter notebook
 ```

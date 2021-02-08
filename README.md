@@ -57,7 +57,7 @@ You can open the code in PyCharm instead, just type the commands in the terminal
 Put the following in a terminal window. If you don't have a compatible GPU, then edit the appropriate `.yml` file in a text editor and change `tensorflow-gpu` to `tensorflow`.
 ```
 conda env create --file requirements.yml
-conda activate ml_-or-chemists
+conda activate ml_for-chemists
 jupyter notebook
 ```
 

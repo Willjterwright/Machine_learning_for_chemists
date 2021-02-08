@@ -31,15 +31,15 @@ instead open the cmd shell.
 Into that type the following 3 commands. 
 ```
 conda env create --file .\requirements_win.yml
-conda activate ml_for_chemists
+conda activate ml-for-chemists
 jupyter notebook
 ```
-Substitute whatever you like for `ml_for_chemists`. This will install the GPU accelerated version of tensorflow. 
+This will install the GPU accelerated version of tensorflow. 
 If you don't have a compatible GPU, then edit the appropriate `.yml` file in a text editor and change `tensorflow-gpu` to `tensorflow`.
 
 What this code does:
 `conda env create --file .\requirements_win.yml`: creates a new `conda` environment, and loads in the requirements for it and names it ml-for-chemists. This is the easiest way to install the packages you need. 
-`conda activate ml_for_chemists`: opens the environment and starts running it. You should see the prompt change from `base` to `ml-for-chemists`
+`conda activate ml-for-chemists`: opens the environment and starts running it. You should see the prompt change from `base` to `ml-for-chemists`
 `jupyter notebook`: opens jupyter notebook in a browser for you to start playing with. I recommend chrome.
 
 *If that code doesn't work*
@@ -57,7 +57,7 @@ You can open the code in PyCharm instead, just type the commands in the terminal
 Put the following in a terminal window. If you don't have a compatible GPU, then edit the appropriate `.yml` file in a text editor and change `tensorflow-gpu` to `tensorflow`.
 ```
 conda env create --file requirements.yml
-conda activate ml_for_chemists
+conda activate ml_-or-chemists
 jupyter notebook
 ```
 
@@ -67,12 +67,12 @@ open the Anaconda command window,
 navigate to the correct directory (eg. `cd  C:\user\My Documents\awesome_code_found_on_the internet\Machine_learning_for_chemists\`)
 then type 
 ```
-conda activate ml_for_chemists
+conda activate ml-for-chemists
 jupyter notebook
 ```
 
 ```
 conda env create --file .\requirements_win.yml
-conda activate ml_for_chemists
+conda activate ml-for-chemists
 jupyter notebook
 ```

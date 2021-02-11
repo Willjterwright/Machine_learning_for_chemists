@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - numpy=1.19.5
   - deepchem=2.4
   - h5py
   - jupyter

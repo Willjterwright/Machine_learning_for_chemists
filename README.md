@@ -76,3 +76,11 @@ conda env create --file .\requirements_win.yml
 conda activate ml-for-chemists
 jupyter notebook
 ```
+
+### Tensorflow 1
+For using some datasets, you will need an environment that has tensorflow 1 installed. Using this is much like the other environments, except you need to use the `requirements_tf.yml` file and the resultant environment is called `ml-for-chemists-tf1`. 
+
+**Warning!** Do not run two jupyter instances on the same notebook at the same time.
+
+
+Currently there is only one tf1 yml file as it should be the same across all platforms.

@@ -9,6 +9,8 @@ dependencies:
   - h5py
   - jupyter
   - tensorflow-gpu<2
+  - tensorflow-estimator<2
+  - tensorboard<2
   - rdkit
   - scikit-learn
   - pdbfixer

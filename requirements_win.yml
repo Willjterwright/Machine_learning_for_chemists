@@ -1,4 +1,4 @@
-name: ml-for-chemists
+name: ml-for-chemists-tf2
 channels:
   - conda-forge
   - defaults
